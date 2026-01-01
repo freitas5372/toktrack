@@ -18,3 +18,4 @@ description = "Ultra-fast token & cost tracker for LLM Token Usage (e.g. Claude 
 # guard against empty input
 # guard against empty input
 # drop an unused branch
+# match the style used in the rest of the module
